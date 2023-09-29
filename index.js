@@ -97,7 +97,7 @@
 
 // fijarse que devuelve cada alert
 
-alert ("10" + 7)
-alert ("10" - 7)
-alert ("10" * 7)
-alert ("10" / 7)
+// alert ("10" + 7)
+// alert ("10" - 7)
+// alert ("10" * 7)
+// alert ("10" / 7)
